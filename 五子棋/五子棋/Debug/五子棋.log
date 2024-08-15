@@ -1,0 +1,19 @@
+﻿  CConfig.cpp
+  CInitGame.cpp
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\hua'wei\Desktop\C++_FiveInARow\五子棋\五子棋\CInitGame.h(15,2): warning C4091: “typedef ”: 没有声明变量时忽略“PLAYER”的左侧
+  CReadyPlay.cpp
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\hua'wei\Desktop\C++_FiveInARow\五子棋\五子棋\CInitGame.h(15,2): warning C4091: “typedef ”: 没有声明变量时忽略“PLAYER”的左侧
+C:\Users\hua'wei\Desktop\C++_FiveInARow\五子棋\五子棋\CReadyPlay.h(8,2): warning C4091: “typedef ”: 没有声明变量时忽略“VECTOR”的左侧
+C:\Users\hua'wei\Desktop\C++_FiveInARow\五子棋\五子棋\CReadyPlay.h(14,2): warning C4091: “typedef ”: 没有声明变量时忽略“FOR”的左侧
+C:\Users\hua'wei\Desktop\C++_FiveInARow\五子棋\五子棋\CReadyPlay.h(20,2): warning C4091: “typedef ”: 没有声明变量时忽略“MOUSES”的左侧
+C:\Users\hua'wei\Desktop\C++_FiveInARow\五子棋\五子棋\CReadyPlay.cpp(52,21): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+  main.cpp
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\hua'wei\Desktop\C++_FiveInARow\五子棋\五子棋\CInitGame.h(15,2): warning C4091: “typedef ”: 没有声明变量时忽略“PLAYER”的左侧
+C:\Users\hua'wei\Desktop\C++_FiveInARow\五子棋\五子棋\CReadyPlay.h(8,2): warning C4091: “typedef ”: 没有声明变量时忽略“VECTOR”的左侧
+C:\Users\hua'wei\Desktop\C++_FiveInARow\五子棋\五子棋\CReadyPlay.h(14,2): warning C4091: “typedef ”: 没有声明变量时忽略“FOR”的左侧
+C:\Users\hua'wei\Desktop\C++_FiveInARow\五子棋\五子棋\CReadyPlay.h(20,2): warning C4091: “typedef ”: 没有声明变量时忽略“MOUSES”的左侧
+  正在生成代码...
+  五子棋.vcxproj -> C:\Users\hua'wei\Desktop\C++_FiveInARow\五子棋\Debug\五子棋.exe
